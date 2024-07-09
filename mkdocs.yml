@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: My Personal Site
+theme:
+  name: material  # Use the Material theme
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects:
+    - Project 1: projects/project1.md
+    - Project 2: projects/project2.md
+    - Project 3: projects/project3.md

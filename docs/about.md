@@ -1,0 +1,3 @@
+# About Me
+
+I'm Almos, a Computer Engineer. Here's a little more about me...
