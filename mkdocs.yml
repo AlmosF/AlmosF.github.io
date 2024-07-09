@@ -1,10 +1,23 @@
 site_name: My Personal Site
 theme:
-  name: material  # Use the Material theme
+  name: material
+  logo: images/logo.png  # Path to your logo image
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
 nav:
   - Home: index.md
   - About: about.md
   - Projects:
-    - Project 1: projects/project1.md
-    - Project 2: projects/project2.md
-    - Project 3: projects/project3.md
+      - Project 1: projects/project1.md
+      - Project 2: projects/project2.md
+      - Project 3: projects/project3.md
+extra_css:
+  - 'stylesheets/custom.css'
+extra_javascript:
+  - 'javascripts/custom.js'
+plugins:
+  - search
