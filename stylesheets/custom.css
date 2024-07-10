@@ -7,7 +7,6 @@ body {
 
 .md-nav__list{
     background: transparent;
-
 }
 
 .md-content__inner.md-typeset h1{
@@ -15,7 +14,7 @@ body {
 }
 
 .md-content__inner.md-typeset h2{
-    color: Red;
+    color: darkkhaki;
 }
 
 .md-content__inner.md-typeset p{
@@ -26,6 +25,10 @@ body {
 
 }
 
+:root > * {
+    --md-code-bg-color: #2e2e2e;
+    --md-code-fg-color: White;
+}
 
 .md-main{
     background: #1E2129;
