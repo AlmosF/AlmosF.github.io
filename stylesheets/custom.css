@@ -1,7 +1,6 @@
 body {
     background-color: #353535;
 }
-
 .md-tabs{
     background-color: #14151A;
 }
@@ -12,7 +11,7 @@ body {
 }
 
 .md-content__inner.md-typeset h1{
-    color: White;
+    color: #ffc929;
 }
 
 .md-content__inner.md-typeset h2{
