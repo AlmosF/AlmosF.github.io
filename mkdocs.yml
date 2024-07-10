@@ -8,16 +8,29 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+  features:
+    - navigation.tabs
+    - naviagion.instant
+    - navigation.top
+    - search.suggest
+  favicon: images/logo.png
+
 nav:
   - Home: index.md
   - About: about.md
   - Projects:
-      - Project 1: projects/project1.md
-      - Project 2: projects/project2.md
-      - Project 3: projects/project3.md
+      - Java Memory Game: projects/Java_Memory_Game.md
+      - Android Weather XML: projects/Android_Weather_XML.md
+      - Android Weather Compose: projects/Android_Weather_Compose.md
 extra_css:
   - 'stylesheets/custom.css'
 extra_javascript:
   - 'javascripts/custom.js'
 plugins:
   - search
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
