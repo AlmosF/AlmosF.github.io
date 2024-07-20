@@ -1,5 +1,5 @@
 body {
-    background-color: #353535;
+    background-color: #1E2129;
 }
 .md-tabs{
     background-color: #14151A;
@@ -21,14 +21,42 @@ body {
     color: White;
 }
 
-.md-sidebar.md-sidebar--primary{
+.md-nav--primary .md-nav__title[for=__drawer]{
+    color: white;
+}
 
+.md-nav--primary .md-nav__title .md-nav__icon:after{
+    color: white;
+}
+
+.md-nav--primary .md-nav__title~.md-nav__list{
+    background-color: #1E2129;
+    color: white;
+}
+
+.md-sidebar__inner{
+    background-color: transparent;
+}
+label.md-nav__title{
+    color: white;
+}
+div.md-sidebar.md-sidebar--primary{
+    color: white;
+}
+
+.md-sidebar__scrollwrap{
+    background-color: transparent;
 }
 
 :root > * {
     --md-code-bg-color: #2e2e2e;
     --md-code-fg-color: White;
+    --md-default-bg-color: #1E2129;
 }
+
+
+
+
 
 .md-main{
     background: #1E2129;
@@ -39,6 +67,17 @@ body {
     background-color: #14151A;
     color: #ffffff;
 }
+
+.md-nav--primary .md-nav__title[for=__drawer]{
+    background-color: #14151A;
+    color: white;
+}
+
+.md-nav--primary .md-nav__title{
+    background-color: #14151A;
+    color: white;
+}
+
 
 .md-header-nav__title, .md-header-nav__button, .md-header-nav__label, .md-content__inner {
     color: #ffffff;
