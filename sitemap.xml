@@ -1,3 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>Noneabout/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/about/"/>
+    </url>
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/"/>
+    </url>
+    <url>
+        <loc>Noneen/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/en/"/>
+    </url>
+    <url>
+        <loc>Nonehu/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonehu/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/hu/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/Java_Memory_Game/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/Java_Memory_Game/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/projects/Java_Memory_Game/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/compose/Android_Weather_Compose/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/compose/Android_Weather_Compose/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/projects/compose/Android_Weather_Compose/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/xml/Android_Weather_XML/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/xml/Android_Weather_XML/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/projects/xml/Android_Weather_XML/"/>
+    </url>
+    <url>
+        <loc>Nonehu/about/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+    </url>
+    <url>
+        <loc>Nonehu/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonehu/en/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/en/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+    </url>
+    <url>
+        <loc>Nonehu/hu/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/hu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonehu/"/>
+    </url>
+    <url>
+        <loc>Nonehu/projects/Java_Memory_Game/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/projects/Java_Memory_Game/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/Java_Memory_Game/"/>
+    </url>
+    <url>
+        <loc>Nonehu/projects/compose/Android_Weather_Compose/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/projects/compose/Android_Weather_Compose/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/compose/Android_Weather_Compose/"/>
+    </url>
+    <url>
+        <loc>Nonehu/projects/xml/Android_Weather_XML/</loc>
+        <lastmod>2024-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonehu/projects/xml/Android_Weather_XML/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/xml/Android_Weather_XML/"/>
+    </url>
 </urlset>
